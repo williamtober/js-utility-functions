@@ -1,0 +1,21 @@
+{
+  "name": "js-utility-functions",
+  "version": "1.0.0",
+  "description": "A collection of utility functions for Evaluating javascript code",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node dist/test.js"
+  },
+  "keywords": [],
+  "author": "William Tober <william@williamtober.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "typescript": "^5.4.5"
+  },
+  "peerDependencies": {
+    "@types/node": "^20.14.2",
+    "typescript": "^5.4.5"
+  }
+}

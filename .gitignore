@@ -1,0 +1,27 @@
+# Ignore compiled binaries
+*.o
+*.obj
+*.class
+*.jar
+
+# Ignore build and temporary directories
+bin/
+build/
+tmp/
+
+# Ignore generated documentation
+docs/
+
+# Ignore IDE and editor-specific files
+.idea/
+.vscode/
+
+# Ignore configuration files
+*.config
+*.conf
+*.cfg
+
+# Ignore dependency directories
+lib/
+libs/
+vendor/
